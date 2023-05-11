@@ -9,7 +9,7 @@
 >    OR
 >### CTRL+ALT+MAJ+T
 >   OR
->### **filter the packet through the filtering bar at the top by typing 'ftp' and you can get the pass en line 5
+>### **filter the packet through the filtering bar at the top by typing 'ftp' and you can get the pass in line 5**
 
 ### OUTPUT:
 
